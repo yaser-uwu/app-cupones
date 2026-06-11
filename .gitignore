@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+frontend/dist/
+
+# Backend
+backend/target/
+backend/.env
+backend/tools/
+
+# Secrets locales
+supabase/vapid.local.env
+
+# Frontend
+frontend/.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
